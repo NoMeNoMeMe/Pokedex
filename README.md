@@ -1,2 +1,3 @@
-# Pokedex
- Simple web scraper using bulbapedia.bulbagarden.net/
+# Outdated
+## Pokedex
+Simple web scraper using bulbapedia.bulbagarden.net/
